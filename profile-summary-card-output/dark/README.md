@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/masachika-kamada/github-profile-summary-cards/main/profile-summary-card-output/dark/4-productive-time.svg)
-```
-
-    
